@@ -171,7 +171,10 @@ The system provides:
 
 ## Author
 Aadya Vaid
+
 Ananya Alagh
+
 Kanusha Sharma
+
 B.Tech Computer Science and Engineering (AI/ML)
 
